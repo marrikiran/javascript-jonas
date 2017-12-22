@@ -1,0 +1,10 @@
+{
+    "shopName": "Himalaya",
+    "address": "Sumer nagar, Borivali (west), Mumbai 400092",
+    "groceries": [
+        {"name": "Wheat","price": 10},
+        {"name": "White Rice","price": 12},
+        {"name": "Brown Rice","price": 20},
+        {"name": "Bread","price": 2}
+    ]
+}
