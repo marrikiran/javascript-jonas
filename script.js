@@ -17,7 +17,8 @@ if (test === null) {
 	console.log('I am consfused');
 
 
-	console.log('Giving Git demo to Kiran');
+
+	console.log('Giving Git demo to kiran reddy')
 }
 
 name = prompt("What's your name?");
