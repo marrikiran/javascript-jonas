@@ -15,10 +15,6 @@ if (test === null) {
 	console.log('it is undefined');
 } else {
 	console.log('I am consfused');
-
-
-
-	console.log('Giving Git demo to kiran reddy')
 }
 
 name = prompt("What's your name?");
